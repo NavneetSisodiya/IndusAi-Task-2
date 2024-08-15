@@ -1,1 +1,2 @@
-# IndusAi-Task-2
+# Drum Kit Web Application
+The Drum Kit Web Application is an interactive webpage that allows users to play drum sounds by pressing specific keys on their keyboard. Each key is mapped to a different drum sound, simulating a real drum kit experience through your web browser. This project demonstrates how to integrate sound with key events in JavaScript, as well as how to create a visually appealing, responsive interface using HTML and CSS.
